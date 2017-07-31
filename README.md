@@ -1,4 +1,4 @@
 # hangman
 hangman test in rxjs
 
-hangman game inplementation in rxjs. 
+hangman game implementation in rxjs. 
